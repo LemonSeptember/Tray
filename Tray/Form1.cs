@@ -116,6 +116,8 @@ namespace Tray
                 this.Dispose();
                 System.Environment.Exit(System.Environment.ExitCode);
             }
+
+
         }
 
         #endregion
